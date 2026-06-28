@@ -4,9 +4,9 @@ export const COMPANY_DETAILS = {
   name: "OFFLINE FIRE & SAFETY LTD",
   tagline: "Your Trusted Partner in Fire Protection & Safety Solutions",
   address: "Accra Road, Emmacra Arcade, P.O. Box 75736-00200, Nairobi, Kenya",
-  phones: ["0721 758 352", "0722 733 331"],
+  phones: ["0727158332", "0722733331"],
   emails: ["offlinefr716@gmail.com", "sales@offlinefire.co.ke"],
-  whatsapp: "254721758352" // Kenya WhatsApp country code format
+  whatsapp: "0727158332" // Kenya WhatsApp country code format
 };
 
 export const SERVICES: Service[] = [
